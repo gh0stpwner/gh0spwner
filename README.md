@@ -27,7 +27,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-📊 **The f*** answer:**
+📊 **The f*\*\* answer:**
 <!--START_SECTION:waka-->
 ```javascript
 // Which came first: the chicken or the egg?
