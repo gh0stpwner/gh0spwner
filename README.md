@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gh0stpwner/)
 [![Twitch Badge](https://img.shields.io/twitch/status/ghospwner?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.com/ghostpwner)
 
-🚀 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
+🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
 
 I am a full-time pentester and ctf player. I love programming, reversing, learning and sharing.
 
