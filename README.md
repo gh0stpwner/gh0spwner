@@ -24,7 +24,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 
 
-📊 **What I use to develop:**
+💻 **What I use to develop:**
 <!--START_SECTION:waka-->
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/-CSHARP-000000?style=flat&logo=csharp)
@@ -49,7 +49,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stpwner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-📊 **The f\*\* answer:**
+💡 **The f\*\* answer:**
 <!--START_SECTION:waka-->
 ```javascript
 // Which came first: the chicken or the egg?
