@@ -14,10 +14,10 @@ I am a web designer, developer, security researcher, and ctf player which enjoys
 👨🏻‍💻 **Personal stuffs:**
 
 - I’m currently working on a C2 Tool;
-- I’m currently reading for OSEP from [leetcode](https://leetcode.com/GKassym);
+- I’m currently reading for OSEP from [OffSec](https://www.offensive-security.com/pen300-osep/);
 - Ask me about anything, I am happy to help;
-- I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- How to reach me: gapur.kassym@gmail.com;
+- I regulary write articles on [medium](https://medium.com);
+- How to reach me: [Twitter](https://twitter.com/ghostpwner);
 
 </br>
 
