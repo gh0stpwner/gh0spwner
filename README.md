@@ -2,6 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ghostpwner)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gh0stpwner/)
+[![Instagram Badge](https://img.shields.io/badge/-Twitch-e4405f?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.com/ghostpwner)
 [![Twitch Badge](https://img.shields.io/twitch/status/ghospwner?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.com/ghostpwner)
 
 🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
