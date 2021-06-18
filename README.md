@@ -28,10 +28,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 
 
-📊 **The f\*\* answer:**
+📊 **Languages I use:**
 <!--START_SECTION:waka-->
-##### Languages I use
-
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
