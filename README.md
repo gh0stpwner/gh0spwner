@@ -29,13 +29,17 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/-CSHARP-000000?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.NET)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=Powershell)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 <!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
