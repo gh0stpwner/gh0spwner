@@ -18,6 +18,9 @@
  
 #### `Reach Me`
  * ![Twitter URL](https://img.shields.io/twitter/url?label=ghostpwner&style=social&url=https://twitter.com/ghostpwner)
+ * <a href="https://twitter.com/shinokada">
+  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+</a>
  
 ---
 ### `skills`
