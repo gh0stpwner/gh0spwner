@@ -32,12 +32,9 @@ I am a web designer, developer, security researcher, and ctf player which enjoys
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
-
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=Powershell)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 <!--END_SECTION:waka-->
 
 📈 **My github stats:**
