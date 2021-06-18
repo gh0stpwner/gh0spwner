@@ -17,8 +17,7 @@
  *  🖨️ Burp Extensions 
  
 #### `Reach Me`
- * ![Twitter URL](https://img.shields.io/twitter/url?label=gh0stpwner&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71)
- * ![KeyBase](https://img.shields.io/keybase/pgp/gh0stpwner?label=Keybase%20PGP&style=social)
+ * ![Twitter URL](https://img.shields.io/twitter/url?label=ghostpwner&style=social&url=https%3A%2F%2Ftwitter.com%2Fghostpwner)
  
 ---
 ### `skills`
