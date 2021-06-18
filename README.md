@@ -17,7 +17,7 @@
  *  🖨️ Burp Extensions 
  
 #### `Reach Me`
- * ![Twitter URL](https://img.shields.io/twitter/url?label=ghostpwner&style=social&url=https%3A%2F%2Ftwitter.com%2Fghostpwner)
+ * ![Twitter URL](https://img.shields.io/twitter/url?label=ghostpwner&style=social&url=https://twitter.com/ghostpwner)
  
 ---
 ### `skills`
