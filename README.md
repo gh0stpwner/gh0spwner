@@ -27,8 +27,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **Languages I use:**
 <!--START_SECTION:waka-->
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=csharp)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-C-000000?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-C-000000?style=flat&logo=.NET)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
