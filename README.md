@@ -13,7 +13,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="right" alt="GIF" src="https://i.imgur.com/5Bmfj4J.gif" width="408" height="218" />
   
 
-**Talking about Personal Stuffs:**
+**Personal stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
@@ -24,7 +24,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 
 
-📊 **Languages I use:**
+📊 **What I use to develop:**
 <!--START_SECTION:waka-->
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/-CSHARP-000000?style=flat&logo=csharp)
@@ -42,7 +42,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 <!--END_SECTION:waka-->
 
-📈 **My GitHub Stats:**
+📈 **My github stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh0stpwner&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
