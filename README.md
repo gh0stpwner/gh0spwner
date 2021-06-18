@@ -13,7 +13,7 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dportuguese%26id%3D1619935368&psig=AOvVaw0oL8-AqwBiBhmedECug8Cn&ust=1624098679041000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCND245j9oPECFQAAAAAdAAAAABAR" width="408" height="318" />
+<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
