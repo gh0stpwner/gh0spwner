@@ -1,66 +1,50 @@
-## GhostPwner
+### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 💬 Ask me about anything, I am happy to help;
+- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Markdown     12 mins         ██████████▓░░░░░░░░░░░░░░   43.30 % 
+TypeScript   12 mins         ██████████▒░░░░░░░░░░░░░░   40.75 % 
+Other        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JavaScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+```
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
 <p>
-  <em>
-    I write code, sometimes security related.</b>
-  </em>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
- <img align="right" alt="GIF" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" />
- <!-- https://media4.giphy.com/media/ixmzSYVKYrHgc/giphy.gif?cid=ecf05e4790jme06l8obzh9554c1srcncdz6rjef92l50uo6g&rid=giphy.gif&ct=g -->
-<!-- ### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="400px"> spike ramen --> 
-<!-- ### <img src="https://64.media.tumblr.com/a82ec3e05319b1e6841f30f22256bd8b/tumblr_mw2dvqJNjs1r07tfbo1_250.gifv" width="300px"> -->
-<!-- ### <img src="https://64.media.tumblr.com/c47c6ca9e3bb90edb24182c5b77ad6b9/tumblr_mlf59n1q121roi27ho1_400.gifv" width="400px"> -->
-<!-- ### <img src="https://64.media.tumblr.com/e7c826f9355e2dc3b14c89b92efd320b/tumblr_n7r5qpSVAE1sybqm2o5_400.gifv" width="400px"> -->
-<!-- ### <img src="https://64.media.tumblr.com/925d019184ee5d0cc7839b63f346b98f/tumblr_n7r5qpSVAE1sybqm2o9_400.gifv" width="300px">  flcl atomsk-->
-
-#### `Currently working on`
- * ☄️ POC based C2 framework 
- *  🖨️ Burp Extensions 
- 
-#### `Reach Me`
- * ![Twitter URL](https://img.shields.io/twitter/url?label=ghostpwner&style=social&url=https://twitter.com/ghostpwner)
- * <a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
-</a>
- 
----
-### `skills`
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" width="70" height="70"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure logo" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws logo" width="50" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/red-hat.svg" alt="red hat logo" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows logo" width="70" height="70"> 
----
-
-### `latest blogs`
-
-<!-- BLOG-POST-LIST:START -->
-- [OSEP Exam tips](https://christopherja.rocks/posts/2021/04/osep-exam-tips/)
-- [OSWE Exam Tips](https://christopherja.rocks/posts/2020/12/oswe-exam-tips/)
-- [AzureADSync BackDoor](https://christopherja.rocks/posts/2020/05/azureadsync-backdoor/)
-- [OSCE Exam Tips](https://christopherja.rocks/posts/2020/04/osce-exam-tips/)
-- [Phishing AMSI Bypass](https://christopherja.rocks/posts/2020/02/phishing-amsi-bypass/)
-<!-- BLOG-POST-LIST:END -->
 
 
----
-### `stat`
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latortuga71&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=latortuga71&show_icons=true&theme=radical&exclude_repo=TortugaToolKit&layout=compact&hide=HTML&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**latortuga71/latortuga71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71) 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
