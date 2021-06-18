@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gh0stpwner/)
 [![Twitch Badge](https://img.shields.io/twitch/status/ghospwner?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.com/ghostpwner)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
+🚀 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
@@ -13,13 +13,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="right" alt="GIF" src="https://i.imgur.com/5Bmfj4J.gif" width="408" height="218" />
   
 
-**Personal stuffs:**
+👨🏻‍💻 **Personal stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
+- I’m currently working on something cool;
+- I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- Ask me about anything, I am happy to help;
+- I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- How to reach me: gapur.kassym@gmail.com;
 
 </br>
 
