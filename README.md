@@ -13,8 +13,8 @@ I am a web designer, developer, security researcher, and ctf player which enjoys
 
 👨🏻‍💻 **Personal stuffs:**
 
-- I’m currently working on something cool;
-- I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- I’m currently working on a C2 Tool;
+- I’m currently reading for OSEP from [leetcode](https://leetcode.com/GKassym);
 - Ask me about anything, I am happy to help;
 - I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - How to reach me: gapur.kassym@gmail.com;
