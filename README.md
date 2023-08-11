@@ -1,8 +1,6 @@
 ### Hi there, I'm <a target="_blank">GhostPwner</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ghostpwner)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gh0stpwner/)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-5c16c5?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.com/ghostpwner)
 
 🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
 
@@ -11,13 +9,10 @@ I am a web designer, developer, security researcher, and ctf player which enjoys
 <img align="right" alt="GIF" src="https://i.imgur.com/5Bmfj4J.gif" width="408" height="218" />
   
 
-👨🏻‍💻 **Personal stuffs:**
+👨🏻‍💻 **Working stuffs:**
 
-- I’m currently working on a C2 Tool;
+- I’m currently working on Malware Development training.
 - I’m currently reading for OSEP from [OffSec](https://www.offensive-security.com/pen300-osep/);
-- Ask me about anything, I am happy to help;
-- I regulary write articles on [medium](https://medium.com);
-- How to reach me: [Twitter](https://twitter.com/ghostpwner);
 
 </br>
 
