@@ -1,6 +1,25 @@
 ### Hi there, I'm <a target="_blank">GhostPwner</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ghostpwner)
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
 
