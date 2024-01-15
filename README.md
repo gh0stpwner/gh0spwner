@@ -1,7 +1,7 @@
 ### 🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
-<br>
+
 <p>
- Just a curious guy trying to understand how things work.
+ I'm just a curious guy trying to understand how things work.
 </p>
 <p>
 <img align="center" alt="GIF" src="https://i.imgur.com/5Bmfj4J.gif" width="408" height="218" />
@@ -11,10 +11,6 @@
 
 - I’m currently working on Malware Development training.
 - I’m currently reading for OSEP from [OffSec](https://www.offensive-security.com/pen300-osep/);
-
-</br>
-
-
 
 
 💻 **What I use to develop:**
