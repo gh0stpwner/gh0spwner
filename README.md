@@ -1,3 +1,36 @@
+<!--x axis divider-->
+<img src="https://i.imgur.com/5Bmfj4J.gif">
+
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjR6aTU1MmF5Z3NlaGtmNWoyNGlsZ2ZiazI5a3N4OWJwZnFoeHltMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'indonesia';
+
+new Person({
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id/',
+    married: !!!true,
+}).sayHello();
+```
+
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+
+
+
 ### 🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
 
 <p>
