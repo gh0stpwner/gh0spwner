@@ -7,20 +7,19 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'Portugal';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id/',
-    married: !!!true,
+    name   : 'Diogo Salvador',
+    title  : 'Hacker',
+    email  : 'pwnerghost@gmail.com',
+    website: 'https://ghostpwner.xyz/'
 }).sayHello();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\Gh0stPwner> .\exploit
+You're lucky, only a simple message was encoded, but stay aware...
 ```
 
 <div align="center">
