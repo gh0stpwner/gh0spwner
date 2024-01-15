@@ -47,13 +47,7 @@
  
  <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh0stpwner&show_icons=true&theme=tokyonight&layout=compact" /></p>
 
-
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stpwner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-<p>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=gh0stpwner&custom_title=Supun%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
-</p>
+ <p><img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=gh0stpwner&custom_title=Supun%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/></p>
 
 💡 **The f\*\* answer:**
 <!--START_SECTION:waka-->
