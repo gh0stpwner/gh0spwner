@@ -12,6 +12,15 @@
 - I’m currently working on Malware Development training.
 - I’m currently reading for OSEP from [OffSec](https://www.offensive-security.com/pen300-osep/);
 
+💡 **The f\*\* answer:**
+<!--START_SECTION:waka-->
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
+<!--END_SECTION:waka-->
 
 💻 **What I use to develop:**
 <!--START_SECTION:waka-->
@@ -37,14 +46,6 @@
 
  <p><img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=gh0stpwner&custom_title=Supun%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/></p>
 
-💡 **The f\*\* answer:**
-<!--START_SECTION:waka-->
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-<!--END_SECTION:waka-->
 
 
