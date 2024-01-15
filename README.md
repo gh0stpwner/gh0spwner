@@ -4,8 +4,9 @@
 
 🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
 
-I am a web designer, developer, security researcher, and ctf player which enjoys using the obsessive need to search for answers to solve hardcore problems and after share the learning the process of that journey. In my spare time, I enjoy photography, cinematography, and video editing.
-
+<p>
+  I am a web designer, developer, security researcher, and ctf player which enjoys using the obsessive need to search for answers to solve hardcore problems and after share the learning the process of that journey. In my spare time, I enjoy photography, cinematography, and video editing.
+</p>
 <img align="right" alt="GIF" src="https://i.imgur.com/5Bmfj4J.gif" width="408" height="218" />
   
 
