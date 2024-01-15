@@ -43,7 +43,12 @@
 📈 **My github stats:**
 
  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh0stpwner&show_icons=true&layout=compact&theme=tokyonight" /> </p>
- <img height="180em" src="https://streak-stats.demolab.com/?user=gh0stpwner&theme=midnight-purple)](https://git.io/streak-stats" />
+
+ 
+ <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh0stpwner&show_icons=true&theme=tokyonight&layout=compact" /></p>
+
+
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stpwner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 <p>
