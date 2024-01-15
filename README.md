@@ -24,7 +24,7 @@ You're lucky, only a simple message was encoded, but stay aware...
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+![Followers](https://img.shields.io/github/followers/gh0stpwner?label=Followers) ![Stars](https://img.shields.io/github/stars/gh0stpwner?label=Stars)
 
 
 
