@@ -25,10 +25,6 @@ You're lucky, only a simple message was encoded, but stay aware...
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/gh0stpwner?label=Followers) ![Stars](https://img.shields.io/github/stars/gh0stpwner?label=Stars)
-<!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
-<div align="center">
-
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
 
 💡 **The f\*\* answer:**
