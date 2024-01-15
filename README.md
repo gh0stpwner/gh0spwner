@@ -24,6 +24,7 @@ You're lucky, only a simple message was encoded, but stay aware...
 
 <div align="center">
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+</div>
 
 💡 **The f\*\* answer:**
 <!--START_SECTION:waka-->
@@ -51,7 +52,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <!--END_SECTION:waka-->
 
 📈 **My github stats:**
-![Followers](https://img.shields.io/github/followers/gh0stpwner?label=Followers) ![Stars](https://img.shields.io/github/stars/gh0stpwner?label=Stars)
+<p>![Followers](https://img.shields.io/github/followers/gh0stpwner?label=Followers) ![Stars](https://img.shields.io/github/stars/gh0stpwner?label=Stars)</p>
+
 
  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh0stpwner&show_icons=true&layout=compact&theme=tokyonight" /> </p>
 
