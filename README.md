@@ -1,11 +1,3 @@
-### Hi there, I'm <a target="_blank">GhostPwner</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diogo-salvador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo-salvador" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghostpwner" height="30" width="40" /></a>
-</p>
 <br>
 
 🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
@@ -23,6 +15,14 @@
 - I’m currently reading for OSEP from [OffSec](https://www.offensive-security.com/pen300-osep/);
 
 </br>
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/diogo-salvador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo-salvador" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghostpwner" height="30" width="40" /></a>
+</p>
+
 
 
 💻 **What I use to develop:**
