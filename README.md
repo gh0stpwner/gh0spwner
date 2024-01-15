@@ -23,8 +23,6 @@ You're lucky, only a simple message was encoded, but stay aware...
 ```
 
 <div align="center">
-
-![Followers](https://img.shields.io/github/followers/gh0stpwner?label=Followers) ![Stars](https://img.shields.io/github/stars/gh0stpwner?label=Stars)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
 
 💡 **The f\*\* answer:**
@@ -36,11 +34,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 <!--END_SECTION:waka-->
-
-👨🏻‍💻 **Working stuffs:**
-
-- I’m currently working on Malware Development training.
-- I’m currently reading for OSEP from [OffSec](https://www.offensive-security.com/pen300-osep/);
 
 💻 **What I use to develop:**
 <!--START_SECTION:waka-->
@@ -58,6 +51,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <!--END_SECTION:waka-->
 
 📈 **My github stats:**
+![Followers](https://img.shields.io/github/followers/gh0stpwner?label=Followers) ![Stars](https://img.shields.io/github/stars/gh0stpwner?label=Stars)
 
  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh0stpwner&show_icons=true&layout=compact&theme=tokyonight" /> </p>
 
