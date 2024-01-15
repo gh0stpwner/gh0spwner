@@ -51,9 +51,24 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <!--END_SECTION:waka-->
 
 📈 **My github stats:**
-<p><img src="https://img.shields.io/github/followers/gh0stpwner?label=Followers"><img src="https://img.shields.io/github/stars/gh0stpwner?label=Stars"></p>
- <p><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh0stpwner&theme=radical" /> </p>
- <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh0stpwner&show_icons=true&theme=tokyonight&layout=compact" /></p>
- <p><img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=gh0stpwner&custom_title=Supun%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/></p>
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gh0stpwner&theme=radical&border=7F3FBF&background=0D1117" alt="gh0stpwner's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh0stpwner&theme=radical" alt="gh0stpwner's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/gh0stpwner"><img alt="gh0stpwner's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gh0stpwner&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/gh0stpwner"><img alt="gh0stpwner's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gh0stpwner&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Ghostpwner's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gh0stpwner&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </div>
