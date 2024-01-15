@@ -26,22 +26,6 @@ You're lucky, only a simple message was encoded, but stay aware...
 
 ![Followers](https://img.shields.io/github/followers/gh0stpwner?label=Followers) ![Stars](https://img.shields.io/github/stars/gh0stpwner?label=Stars)
 
-
-
-### 🚀 **Glad to see you here!** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gh0stpwner.gh0stpwner)
-
-<p>
- I'm just a curious guy trying to understand how things work.
-</p>
-<p>
-<img align="center" alt="GIF" src="https://i.imgur.com/5Bmfj4J.gif" width="408" height="218" />
-</p>
-
-👨🏻‍💻 **Working stuffs:**
-
-- I’m currently working on Malware Development training.
-- I’m currently reading for OSEP from [OffSec](https://www.offensive-security.com/pen300-osep/);
-
 💡 **The f\*\* answer:**
 <!--START_SECTION:waka-->
 ```javascript
@@ -51,6 +35,11 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 <!--END_SECTION:waka-->
+
+👨🏻‍💻 **Working stuffs:**
+
+- I’m currently working on Malware Development training.
+- I’m currently reading for OSEP from [OffSec](https://www.offensive-security.com/pen300-osep/);
 
 💻 **What I use to develop:**
 <!--START_SECTION:waka-->
