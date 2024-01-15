@@ -23,7 +23,6 @@ You're lucky, only a simple message was encoded, but stay aware...
 ```
 
 <div align="center">
-<img height="18em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
 💡 **The f\*\* answer:**
@@ -52,7 +51,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <!--END_SECTION:waka-->
 
 📈 **My github stats:**
-<p>![Followers](https://img.shields.io/github/followers/gh0stpwner?label=Followers) ![Stars](https://img.shields.io/github/stars/gh0stpwner?label=Stars)</p>
+<p><img src="https://img.shields.io/github/followers/gh0stpwner?label=Followers"><img src="https://img.shields.io/github/stars/gh0stpwner?label=Stars"></p>
  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh0stpwner&show_icons=true&layout=compact&theme=tokyonight" /> </p>
  <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh0stpwner&show_icons=true&theme=tokyonight&layout=compact" /></p>
  <p><img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=gh0stpwner&custom_title=Supun%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/></p>
